@@ -305,6 +305,7 @@ be unintuitive and/or lengthy to dissect into a list of requirements.
 * [Authorization](#def-authorization)
 * [Base Endpoint](#def-baseendpoint)
 * [Community of Practice](#def-community-of-practice)
+* [Community Profile](#def-community-profile)
 * [Experience API (xAPI)](#def-experience-api)
 * [Immutable](#def-immutable)
 * [Internationalized Resource Identifier (IRI)](#def-iri)
